@@ -1,0 +1,25 @@
+SIMPLE SHOPPING SITE IN PHP
+
+**Customer Login Details**
+
+Email   : mik@gmail.com
+Password: mik
+
+**Admin Login**
+
+Username: admin
+Password: admin
+
+**Thanks to Gebb Ebero**
+
+DON'T FORGET TO CREATE A DATABASE NAMING "edgedata" AND IMPORT THE DATBASE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+#THANK YOU FOR DOWNLOADING
