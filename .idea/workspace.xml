@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c445fb0d-b88d-44e7-842d-8eca6316a8ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Crud/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/add_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/delete_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/edit_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/js/a4794b9b18.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/js/jquery-3.3.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Crud/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/JavaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaScript/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogging/.idea/blogging.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogs/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/assets/css/material-dashboard.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/assets/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/assets/js/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/assets/js/smooth-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/config/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/css/material-dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/css/material-dashboard.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/css/material-dashboard.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/css/nucleo-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/css/nucleo-svg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/core/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/material-dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/material-dashboard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/material-dashboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/Chart.extension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/bootstrap-notify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/chartjs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/countup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/perfect-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/smooth-scrollbar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/assets/js/plugins/world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/includes/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eCommerce/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Models/Employer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Models/Job.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Models/Tag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/bootstrap/providers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/factories/EmployerFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/factories/JobFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/factories/TagFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/0001_01_01_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/0001_01_01_000001_create_cache_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/0001_01_01_000002_create_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/2024_10_06_182521_create_job_listings_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/2024_10_09_114626_create_employers_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/migrations/2024_10_09_121502_create_tags_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/components/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/components/nav-link.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/job.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/resources/views/jobs.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel/test/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nZzrE4RNI665Xg6d34txiMwc4Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/xampp/htdocs/laravel/test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c445fb0d-b88d-44e7-842d-8eca6316a8ec" name="Changes" comment="" />
+      <created>1729195582909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729195582909</updated>
+      <workItem from="1729195583951" duration="2466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
